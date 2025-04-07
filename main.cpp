@@ -78,11 +78,6 @@ void Print()
 	}
 }
 
-void Test()
-{
-
-}
-
 int main()
 {
 	Initialize();
